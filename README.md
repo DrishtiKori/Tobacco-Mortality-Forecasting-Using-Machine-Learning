@@ -7,8 +7,14 @@ Smoking-related diseases remain a major contributor to global mortality and heal
 This project builds a **machine learning model to forecast next-year smoking-related mortality rates** using historical smoking prevalence and hospital admission data.
 
 The project demonstrates a **complete end-to-end data science workflow**, including data preprocessing, feature engineering, exploratory data analysis, model training, and interpretation of results.
-![Cigarette-photo](https://github.com/user-attachments/assets/2cc7b8d2-c848-4b6f-90c9-a8bb8a684c9e)
-![pipe tobacco](https://github.com/user-attachments/assets/93d79f7a-616c-4d82-87b5-3c25c1b4432c)
+## Project Preview
+
+<p align="left">
+  <img src="reports/figures/Cigarette-photo.jpeg" width="750">
+</p>
+<p align="right">
+  <img src="reports/figures/pipe_tobacco.jpg" width="750">
+</p>
 
 
 ---
