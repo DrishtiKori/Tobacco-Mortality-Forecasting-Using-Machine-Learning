@@ -10,10 +10,10 @@ The project demonstrates a **complete end-to-end data science workflow**, includ
 ## Project Preview
 
 <p align="left">
-  <img src="reports/figures/Cigarette-photo.jpeg" width="750">
+  <img src="reports/figures/Cigarette-photo.jpeg" width="250">
 </p>
 <p align="right">
-  <img src="reports/figures/pipe_tobacco.jpg" width="750">
+  <img src="reports/figures/pipe_tobacco.jpg" width="250">
 </p>
 
 
